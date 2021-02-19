@@ -1,0 +1,48 @@
+body {
+  background-color: #c7c7c7;
+}
+.mainPage {
+}
+
+.catsGif {
+  border-radius: 50px;
+  width: 500px;
+  height: 500px;
+}
+
+.textBox {
+  display: flex;
+  flex-direction: row;
+}
+
+.countsBox {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: tomato;
+  border-radius: 50%;
+  width: 50px;
+  height: 50px;
+}
+
+.counts {
+  text-align: center;
+  color: wheat;
+  font-weight: 900;
+  font-size: 25px;
+  padding: 1px;
+}
+
+.messageBox {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 15px;
+  width: 440px;
+  background-color: white;
+  font-weight: 900;
+  font-size: 25px;
+  color: #4a4a4a;
+  padding: 3px;
+  margin-left: 5px;
+}
